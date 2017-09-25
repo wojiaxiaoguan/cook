@@ -1,0 +1,5 @@
+*.meta
+.vscode/
+/Library
+/ProjectSettings
+/Temp
